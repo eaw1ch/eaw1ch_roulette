@@ -1,3 +1,3 @@
 # eaw1ch_roulette
-rulette
+roulette
 the first commit
